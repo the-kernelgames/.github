@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://via.placeholder.com/800x200/181717/2CA5E0?text=The+KernelGames+Studio" alt="The KernelGames Banner" width="100%" style="border-radius: 15px;">
-
-<br><br>
-
 # 🎮 The KernelGames
 
 **Estudio Indie Universitario | Quindío, Colombia 🇨🇴**
